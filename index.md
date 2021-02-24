@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Page d'accueil du Groupe - Kédier, Birama
 
 You can use the [editor on GitHub](https://github.com/docteurport/USID13_Fouille_de_donnees/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
